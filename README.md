@@ -1,8 +1,8 @@
 # Scratch & Win Game 
 ## Demo
-<!-- <p align="center">
-  <img src="./sn_demo.gif">
-</p> -->
+<p align="center">
+  <img src="./scratch_demo.gif">
+</p>
 
 ## Summary
 App will simulate a scratch and win lottery game.
