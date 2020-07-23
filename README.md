@@ -10,7 +10,7 @@ App will simulate a scratch and win lottery game.
 ## Getting Started
 1. Fork and clone from this repository onto your local machine.
 ```bash
-$ git clone https://github.com/devJimmyLam/Spanish-Number.git
+$ git clone https://github.com/devJimmyLam/Scratch-Win-Game.git
 ```
 2. In your terminal, navigate into the cloned directory and install the required dependencies
 ```
